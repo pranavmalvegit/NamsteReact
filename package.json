@@ -1,0 +1,22 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "course-poc",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavmalvegit/NamsteReact.git"
+  },
+  "author": "pranav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavmalvegit/NamsteReact/issues"
+  },
+  "homepage": "https://github.com/pranavmalvegit/NamsteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
